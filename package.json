@@ -1,6 +1,6 @@
 {
   "name": "username-userid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert a linux username to a uid in your node.js program",
   "main": "username-userid.js",
   "keywords": [
