@@ -1,0 +1,31 @@
+{
+  "name": "username-userid",
+  "version": "1.0.0",
+  "description": "Convert a linux username to a uid in your node.js program",
+  "main": "username-userid.js",
+  "keywords": [
+    "uid",
+    "username",
+    "linux",
+    "passwd"
+  ],
+  "scripts": {
+    "test": "node_modules/.bin/mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mz3/username-userid.git"
+  },
+  "author": {
+    "name": "Michael Zandstra",
+    "email": "m@emzy.cc"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mz3/username-userid/issues"
+  },
+  "homepage": "https://github.com/mz3/username-userid#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
